@@ -22,8 +22,15 @@ The Quit Smoking uses a Java Full Stack methodology, with Core Java handling bac
 
 ![image](https://github.com/Nksnaveenks/Quit-Smoking-Tracker---Assistance-and-milestones-for-quitting-smoking.-/assets/155534229/ac361b4d-adc0-4552-b885-a1c066f93569)
 
+![image](https://github.com/Nksnaveenks/Quit-Smoking-Tracker---Assistance-and-milestones-for-quitting-smoking.-/assets/155534229/2c48c45c-7b02-4f9f-9934-d84c89974dfb)
 
+![image](https://github.com/Nksnaveenks/Quit-Smoking-Tracker---Assistance-and-milestones-for-quitting-smoking.-/assets/155534229/a62a6426-2c21-415f-9d76-6efcafd28681)
 
+![image](https://github.com/Nksnaveenks/Quit-Smoking-Tracker---Assistance-and-milestones-for-quitting-smoking.-/assets/155534229/99ac6cde-194e-4201-a90f-fb1116927eb3)
+
+![image](https://github.com/Nksnaveenks/Quit-Smoking-Tracker---Assistance-and-milestones-for-quitting-smoking.-/assets/155534229/693e6832-8200-4744-b3ba-2e076bc9e1b0)
+
+![image](https://github.com/Nksnaveenks/Quit-Smoking-Tracker---Assistance-and-milestones-for-quitting-smoking.-/assets/155534229/95e347e7-b729-4c23-8c70-6310fd429050)
 
 
 
