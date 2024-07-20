@@ -1,3 +1,6 @@
+Project_Demonstration video
+Check in files.
+
 The Quit Smoking uses a Java Full Stack methodology, with Core Java handling backend functionality, Servlet handling database connectivity and backend, JSP handling frontend design and validation, HTML handling user interface structure, JavaBean handling login validation, and MySQL handling data storage.
 
 ![image](https://github.com/Nksnaveenks/Quit-Smoking-Tracker---Assistance-and-milestones-for-quitting-smoking.-/assets/155534229/a1e525cf-e843-4a38-8d35-5918606ef9a2)
