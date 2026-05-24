@@ -272,11 +272,11 @@ This project is licensed under the **MIT License**.
 <img src="https://img.shields.io/badge/GitHub-NaveenKS-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/naveenk-s/">
 <img src="https://img.shields.io/badge/LinkedIn-NaveenKS-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:nks990217@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
